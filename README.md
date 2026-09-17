@@ -9,3 +9,21 @@ Recipe Portion Scaler is a smart cooking tool that automatically adjusts ingredi
 
 ## 🚀 project Demo
 [Live Demo]()
+
+✨ Features
+
+🧮 Automatic ingredient quantity calculation
+👨‍👩‍👧‍👦 Adjust recipes for different serving sizes
+🥄 Supports common cooking measurements
+➕ Add and manage ingredients
+🔄 Instantly update ingredient quantities
+💾 Save recipes using LocalStorage
+❤️ Favorite recipes
+🔍 Search recipes
+🛒 Generate a shopping list
+⏱️ Cooking timer
+🌙 Dark and light mode
+📱 Fully responsive design
+🖨️ Print-friendly recipe view
+🔗 Share recipes easily
+💰 Optional cost-per-serving calculation
