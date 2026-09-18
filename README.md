@@ -60,5 +60,22 @@ Recipe Portion Scaler is a smart cooking tool that automatically adjusts ingredi
     └── 🖼️ recipe.png
 ```
 
+🚀 Future Enhancements
+
+Future versions can include:
+
+🤖 AI recipe recommendations
+📷 Recipe image/OCR scanning
+🧠 AI ingredient recognition
+🥗 Nutrition and calorie calculation
+💰 Ingredient cost estimation
+📊 Meal planning
+🛍️ Automatic grocery list generation
+🎤 Voice-based ingredient entry
+☁️ Cloud recipe synchronization
+👤 User accounts
+📤 Recipe sharing
+📄 PDF recipe export
+
 
 
