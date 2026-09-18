@@ -59,8 +59,7 @@ Recipe Portion Scaler is a smart cooking tool that automatically adjusts ingredi
     ├── 🖼️ indegrident.png
     └── 🖼️ recipe.png
 ```
-
-🚀 Future Enhancements
+## 📈 Future Enhancements
 
 Future versions can include:
 
