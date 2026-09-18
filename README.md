@@ -47,3 +47,11 @@ Recipe Portion Scaler is a smart cooking tool that automatically adjusts ingredi
 * HTML5
 * CSS3
 * JavaScript
+
+Recipe/
+│
+├── image/
+│   ├── ingredient.png
+│   └── recipe.png
+│
+└── index.html
