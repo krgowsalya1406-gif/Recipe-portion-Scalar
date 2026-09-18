@@ -48,4 +48,17 @@ Recipe Portion Scaler is a smart cooking tool that automatically adjusts ingredi
 * CSS3
 * JavaScript
 
+## 📁 Project Structure
+
+```text
+📁 Recipe portion scalar
+│
+├── 📄 index.html
+└── 📁 image
+    │
+    ├── 🖼️ indegrident.png
+    └── 🖼️ recipe.png
+```
+
+
 
