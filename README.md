@@ -42,8 +42,8 @@ Recipe Portion Scaler is a smart cooking tool that automatically adjusts ingredi
 
 💰 Optional cost-per-serving calculation
 
-##💻 Technology Used
+## 🛠 Tech Stack
 
-HTML5
-CSS3
-JavaScript
+* HTML5
+* CSS3
+* JavaScript
