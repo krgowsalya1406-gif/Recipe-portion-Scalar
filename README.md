@@ -10,6 +10,11 @@ Recipe Portion Scaler is a smart cooking tool that automatically adjusts ingredi
 ## 🚀 project Demo
 [Live Demo]()
 
+### Integridents
+DonateSmarter is a user-friendly donation platform that helps people donate unused items to those in need. It promotes reuse, reduces waste, and makes the donation process simple and meaningful.
+
+![Integridents](image/Integrident.png)
+
 ✨ Features
 
 🧮 Automatic ingredient quantity calculation
