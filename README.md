@@ -15,6 +15,11 @@ A quick and delicious sandwich made with fresh tomato, cucumber, onion, cheese, 
 
 ![Ingedrient](ingedrient.png)
 
+### Recipe
+A quick and delicious sandwich made with fresh tomato, cucumber, onion, cheese, and butter between soft bread slices. It is an easy breakfast or snack that can be toasted for a crispy and flavorful finish.
+
+![Ingedrient](recipe.png)
+
 ✨ Features
 
 🧮 Automatic ingredient quantity calculation
