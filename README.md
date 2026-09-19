@@ -11,7 +11,7 @@ Recipe Portion Scaler is a smart cooking tool that automatically adjusts ingredi
 [Live Demo]()
 
 ### Ingedrient
-DonateSmarter is a user-friendly donation platform that helps people donate unused items to those in need. It promotes reuse, reduces waste, and makes the donation process simple and meaningful.
+A quick and delicious sandwich made with fresh tomato, cucumber, onion, cheese, and butter between soft bread slices. It is an easy breakfast or snack that can be toasted for a crispy and flavorful finish.
 
 ![Ingedrient](ingedrient.png)
 
