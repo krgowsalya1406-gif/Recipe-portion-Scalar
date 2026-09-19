@@ -10,10 +10,10 @@ Recipe Portion Scaler is a smart cooking tool that automatically adjusts ingredi
 ## 🚀 project Demo
 [Live Demo]()
 
-### ingedrient
+### Ingedrient
 DonateSmarter is a user-friendly donation platform that helps people donate unused items to those in need. It promotes reuse, reduces waste, and makes the donation process simple and meaningful.
 
-![Donate Smarter](ingedrient.png)
+![Ingedrient](ingedrient.png)
 
 ✨ Features
 
