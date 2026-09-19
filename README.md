@@ -16,8 +16,7 @@ A quick and delicious sandwich made with fresh tomato, cucumber, onion, cheese, 
 ![Ingedrient](ingedrient.png)
 
 ### Recipe
-A quick and delicious sandwich made with fresh tomato, cucumber, onion, cheese, and butter between soft bread slices. It is an easy breakfast or snack that can be toasted for a crispy and flavorful finish.
-
+Recipe Portion Scaler is a user-friendly web application that helps users adjust recipe ingredient quantities based on the required number of servings. Users can select a recipe, choose the desired servings, search by recipe or category, and automatically get the correct ingredient quantities. It makes cooking easier, faster, and more accurate.
 ![Ingedrient](recipe.png)
 
 ✨ Features
