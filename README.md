@@ -106,6 +106,8 @@ Future versions can include:
 ♻️ Turning unused into useful — K.R. Gowsalya
 
 ✨ Explore the project.
+
 ⭐ Support the vision.
+
 🤝 Be part of the impact.
 
