@@ -137,3 +137,4 @@ Cloud-based recipe storage and synchronization.
 
 
 **Crafted with ❤️ by K.R. Gowsalya**
+Turning everyday problems into smart digital solutions.
