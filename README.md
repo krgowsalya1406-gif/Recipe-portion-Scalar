@@ -95,39 +95,40 @@ Responsive and user-friendly interface.
 ```
 ## 📈 Future Enhancements
 
-Future versions can include:
+AI-powered personalized recipe recommendations.
 
-🤖 AI recipe recommendations
 
-📷 Recipe image/OCR scanning
 
-🧠 AI ingredient recognition
+Nutritional and calorie tracking.
 
-🥗 Nutrition and calorie calculation
 
-💰 Ingredient cost estimation
 
-📊 Meal planning
+Voice-controlled cooking assistant.
 
-🛍️ Automatic grocery list generation
 
-🎤 Voice-based ingredient entry
 
-☁️ Cloud recipe synchronization
+Smart ingredient substitution.
 
-👤 User accounts
 
-📤 Recipe sharing
 
-📄 PDF recipe export
+Weekly meal planning.
 
-## 📬 Contact
 
-♻️ Turning unused into useful — K.R. Gowsalya
 
-✨ Explore the project.
+Grocery price estimation.
 
-⭐ Support the vision.
 
-🤝 Be part of the impact.
 
+Pantry and expiry date management.
+
+
+
+Multi-language recipe support.
+
+
+
+Diet-based recipe recommendations.
+
+
+
+Cloud-based recipe storage and synchronization.
