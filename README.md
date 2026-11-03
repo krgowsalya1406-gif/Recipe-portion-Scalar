@@ -132,3 +132,8 @@ Diet-based recipe recommendations.
 
 
 Cloud-based recipe storage and synchronization.
+
+## 👩‍💻 Author
+
+
+**Crafted with ❤️ by K.R. Gowsalya**
