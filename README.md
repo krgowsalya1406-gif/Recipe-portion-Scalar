@@ -1,98 +1,101 @@
+
 # 🍳 Recipe Portion Scaler
 
-\<p align="center">   \<b>Cook Smart • Scale Perfectly • Serve Happily\</b> \</p>
+### Cook Smart | Scale Perfectly | Serve Happily
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-orange?style=flat-square\&logo=html5\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-blue?style=flat-square\&logo=css3\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-yellow?style=flat-square\&logo=javascript\&logoColor=black)"/> \</p>
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
 
 ## 🌟 About the Project
 
 **Your Recipe, Your Portions, Your Perfect Taste!**
 
-Recipe Portion Scaler is an interactive cooking companion that makes recipe measurements effortless. Select a recipe, choose your desired servings, and instantly get accurately adjusted ingredient quantities. From a single meal to a family feast, enjoy stress-free cooking with smart portion calculations.
+Recipe Portion Scaler is a smart cooking tool that automatically adjusts ingredient quantities based on the required servings. Users can select a recipe, customize the serving size, and get accurate ingredient measurements instantly. It makes cooking easier, faster, and more enjoyable.
 
-## 🚀 Explore the Application
+## 🎥 Project Demo
 
-- 🎥 [Watch Project Demo](https://drive.google.com/file/d/1KVJhJGyCnmRxw6PKjPG1yh_Rd1vec8lg/view?usp=sharing)
-- 🌐 [Launch Live Demo](https://recipe-portion-scaler.vercel.app/)
+[▶ Watch Project Demo](https://drive.google.com/file/d/1KVJhJGyCnmRxw6PKjPG1yh_Rd1vec8lg/view?usp=sharing)
 
-## 📸 Application Preview
+## 🚀 Live Demo
 
-### 🥗 Ingredient Showcase
+[🌐 Try Recipe Portion Scaler](https://recipe-portion-scaler.vercel.app/)
 
-Explore recipe ingredients with clear measurements and descriptions.
+## 📸 Application Screenshots
 
+### 🥪 Ingredient Showcase
 
+Discover fresh ingredients and their measurements.
+
+![Ingredients](image/ingedrient.png)
 
 ### 🍽️ Recipe Explorer
 
-Discover recipes, customize serving sizes, and get automatically calculated ingredient quantities.
+Explore recipes, customize servings, and view automatically calculated ingredient quantities.
 
+![Recipe](image/recipe.png)
 
+## ✨ Key Features
 
-## ✨ Key Highlights
-
-- 🍲 Explore multiple recipes with food images.
-- 🔍 Search recipes instantly by name.
+- 🍲 Browse multiple recipes with food images.
+- 🔍 Search recipes by name.
 - 🗂️ Filter recipes by category.
-- 👨‍👩‍👧 Customize serving portions.
-- ⚖️ Calculate ingredient quantities automatically.
-- 🥕 View accurate ingredient measurements.
+- 👨‍👩‍👧 Customize serving sizes.
+- ⚖️ Automatically calculate ingredient quantities.
+- 🥕 Display accurate ingredient measurements.
 - 👩‍🍳 Follow step-by-step cooking instructions.
-- ⏱️ Check cooking time and difficulty level.
+- ⏱️ View cooking time and difficulty level.
 - ❤️ Save favourite recipes.
 - 📋 Copy ingredient lists instantly.
 - 🛒 Generate shopping lists automatically.
 - 📱 Responsive design for all devices.
 
-## 🛠️ Technology Behind the Project
+## 🛠️ Tech Stack
 
-| Technology | Implementation                 |
-| ---------- | ------------------------------ |
-| HTML5      | Structure                      |
-| CSS3       | Styling                        |
+| Technology | Purpose |
+|---|---|
+| HTML5 | Structure |
+| CSS3 | Styling |
 | JavaScript | Functionality and calculations |
 
 ## 📁 Project Structure
 
 ```text
-📁 Recipe-portion-scaler
+Recipe-portion-scaler/
 │
-├── 📄 index.html
+├── index.html
+├── README.md
 │
-└── 📁 image
-    ├── 🖼️ ingedrient.png
-    └── 🖼️ recipe.png
+└── image/
+    ├── ingedrient.png
+    └── recipe.png
 ```
 
-## 🔮 Future Innovations
+## 🔮 Future Enhancements
 
 - 🤖 AI-powered recipe recommendations.
 - 🥗 Nutrition and calorie tracking.
 - 🎙️ Voice-controlled cooking assistant.
 - 🔄 Smart ingredient substitutions.
-- 📅 Personalized meal planning.
+- 📅 Weekly meal planning.
 - 💰 Grocery price estimation.
-- 🌍 Multi-language support.
+- 🌍 Multi-language recipe support.
 - ☁️ Cloud-based recipe storage.
 
-## 🎯 Our Mission
+## 🎯 Our Vision
 
-Making everyday cooking easier through smart technology, accurate measurements, and personalized recipe experiences.
+Making everyday cooking smarter, simpler, and more enjoyable through technology.
 
 ## 👩‍💻 Developer
 
 **K.R. Gowsalya**
 
-*Web Developer | AI/ML Enthusiast*
+Web Developer | AI/ML Enthusiast
 
-**Turning creative ideas into practical digital solutions.** ❤️
+*Turning everyday problems into smart digital solutions.* ❤️
 
 ---
 
-\<p align="center">
-&#x20; ⭐ If you find this project useful, don't forget to star the repository!
-\</p>
+⭐ If you like this project, give the repository a star!
 
-\<p align="center">
-&#x20; \<b>Measure Less. Cook More. Enjoy Better! 🍳\</b>
-\</p>
+**Cook Smart. Scale Right. Enjoy Every Bite! 🍳**
