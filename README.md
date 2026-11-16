@@ -1,58 +1,58 @@
-# 🍳 Recipe Portion Scaler | Cook Smart, Serve Right!
+# 🍳 Recipe Portion Scaler
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Recipe-Portion%20Scaler-orange?style=for-the-badge&logo=foodpanda&logoColor=white](https://img.shields.io/badge/Recipe-Portion%20Scaler-orange?style=for-the-badge\&logo=foodpanda\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/HTML5-Frontend-orange?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-Frontend-orange?style=for-the-badge\&logo=html5\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge\&logo=css3\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/JavaScript-Logic-yellow?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-Logic-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)" /> \</p>
+\<p align="center">   \<b>Cook Smart • Scale Perfectly • Serve Happily\</b> \</p>
+
+\<p align="center">   \<img src="[https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-orange?style=flat-square\&logo=html5\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-blue?style=flat-square\&logo=css3\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-yellow?style=flat-square\&logo=javascript\&logoColor=black)"/> \</p>
 
 ## 🌟 About the Project
 
-**Less Guesswork, More Deliciousness!**
+**Your Recipe, Your Portions, Your Perfect Taste!**
 
-Recipe Portion Scaler is a smart and interactive cooking companion that takes the hassle out of recipe measurements. Whether cooking for one, preparing a family dinner, or hosting a gathering, it automatically scales ingredient quantities to match the required servings.
+Recipe Portion Scaler is an interactive cooking companion that makes recipe measurements effortless. Select a recipe, choose your desired servings, and instantly get accurately adjusted ingredient quantities. From a single meal to a family feast, enjoy stress-free cooking with smart portion calculations.
 
-Simply choose a recipe, adjust the serving count, and let the application handle the calculations. Cook confidently with accurate measurements every time!
+## 🚀 Explore the Application
 
-## 🎬 Experience the Project
+- 🎥 [Watch Project Demo](https://drive.google.com/file/d/1KVJhJGyCnmRxw6PKjPG1yh_Rd1vec8lg/view?usp=sharing)
+- 🌐 [Launch Live Demo](https://recipe-portion-scaler.vercel.app/)
 
-- 🎥 [Watch the Project Demo](https://drive.google.com/file/d/1KVJhJGyCnmRxw6PKjPG1yh_Rd1vec8lg/view?usp=sharing)
-- 🚀 [Explore the Live Application](https://recipe-portion-scaler.vercel.app/)
+## 📸 Application Preview
 
-## 📸 A Taste of the Application
+### 🥗 Ingredient Showcase
 
-### 🥪 Inside the Ingredients
-
-Discover the ingredients behind every delicious recipe, with clear measurements and food descriptions.
+Explore recipe ingredients with clear measurements and descriptions.
 
 
 
-### 🍽️ Explore the Recipe Experience
+### 🍽️ Recipe Explorer
 
-Browse recipes, customize serving sizes, and discover automatically adjusted ingredient quantities with easy-to-follow cooking instructions.
+Discover recipes, customize serving sizes, and get automatically calculated ingredient quantities.
 
 
 
-## ✨ What Makes It Special?
+## ✨ Key Highlights
 
-- 🍲 **Recipe Discovery** – Explore a variety of recipes with attractive food images.
-- 🔍 **Smart Search** – Find recipes instantly by name.
-- 🗂️ **Category Explorer** – Discover recipes based on food categories.
-- 👨‍👩‍👧 **Flexible Servings** – Customize portions for individuals or groups.
-- ⚖️ **Instant Scaling** – Automatically recalculate ingredient measurements.
-- 🥕 **Ingredient Insights** – View accurate ingredient quantities.
-- 👩‍🍳 **Cooking Guide** – Follow simple, step-by-step instructions.
-- ⏱️ **Cooking Details** – Check preparation time and difficulty level.
-- ❤️ **Personal Favourites** – Save recipes you love.
-- 📋 **Quick Copy** – Copy ingredient lists instantly.
-- 🛒 **Smart Shopping List** – Generate shopping lists from recipes.
-- 📱 **Responsive Experience** – Enjoy seamless access across devices.
+- 🍲 Explore multiple recipes with food images.
+- 🔍 Search recipes instantly by name.
+- 🗂️ Filter recipes by category.
+- 👨‍👩‍👧 Customize serving portions.
+- ⚖️ Calculate ingredient quantities automatically.
+- 🥕 View accurate ingredient measurements.
+- 👩‍🍳 Follow step-by-step cooking instructions.
+- ⏱️ Check cooking time and difficulty level.
+- ❤️ Save favourite recipes.
+- 📋 Copy ingredient lists instantly.
+- 🛒 Generate shopping lists automatically.
+- 📱 Responsive design for all devices.
 
-## 🧰 Built With
+## 🛠️ Technology Behind the Project
 
-| Technology | Purpose                               |
-| ---------- | ------------------------------------- |
-| HTML5      | Application structure                 |
-| CSS3       | Visual design and styling             |
-| JavaScript | Recipe logic and portion calculations |
+| Technology | Implementation                 |
+| ---------- | ------------------------------ |
+| HTML5      | Structure                      |
+| CSS3       | Styling                        |
+| JavaScript | Functionality and calculations |
 
-## 🗂️ Behind the Scenes – Project Structure
+## 📁 Project Structure
 
 ```text
 📁 Recipe-portion-scaler
@@ -60,41 +60,39 @@ Browse recipes, customize serving sizes, and discover automatically adjusted ing
 ├── 📄 index.html
 │
 └── 📁 image
-    ├── 🖼️ ingredient.png
+    ├── 🖼️ ingedrient.png
     └── 🖼️ recipe.png
 ```
 
-## 🔮 What's Cooking Next?
-
-Future improvements planned to make cooking even smarter:
+## 🔮 Future Innovations
 
 - 🤖 AI-powered recipe recommendations.
-- 🥗 Nutrition and calorie analysis.
-- 🎙️ Voice-assisted cooking instructions.
-- 🔄 Intelligent ingredient substitutions.
-- 📅 Personalized weekly meal planning.
+- 🥗 Nutrition and calorie tracking.
+- 🎙️ Voice-controlled cooking assistant.
+- 🔄 Smart ingredient substitutions.
+- 📅 Personalized meal planning.
 - 💰 Grocery price estimation.
-- 🧊 Pantry and expiry date tracking.
-- 🌍 Multi-language recipe support.
-- 🥑 Personalized diet-based suggestions.
-- ☁️ Cloud-based recipe synchronization.
+- 🌍 Multi-language support.
+- ☁️ Cloud-based recipe storage.
 
-## 💡 Our Vision
+## 🎯 Our Mission
 
-To transform everyday cooking into a smarter, simpler, and more personalized experience through technology.
+Making everyday cooking easier through smart technology, accurate measurements, and personalized recipe experiences.
 
-## 👩‍💻 Meet the Creator
+## 👩‍💻 Developer
 
 **K.R. Gowsalya**
 
-💻 Web Developer | AI/ML Enthusiast
+*Web Developer | AI/ML Enthusiast*
 
-*Building meaningful digital experiences, one idea at a time.* ❤️
+**Turning creative ideas into practical digital solutions.** ❤️
 
 ---
 
 \<p align="center">
-&#x20; ⭐ If you like this project, consider giving it a star!
-&#x20; \<br/>
-&#x20; \<b>Cook Smart. Scale Right. Enjoy Every Bite! 🍽️\</b>
+&#x20; ⭐ If you find this project useful, don't forget to star the repository!
+\</p>
+
+\<p align="center">
+&#x20; \<b>Measure Less. Cook More. Enjoy Better! 🍳\</b>
 \</p>
