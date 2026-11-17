@@ -1,12 +1,33 @@
 
-# 🍴 Recipe Portion Scaler
-### Where Every Ingredient Finds Its Perfect Measure.
+<h1 align="center">
+  🍲 Recipe Portion Scaler — Smart Cooking Calculator
+</h1>
 
-**DISCOVER • CUSTOMIZE • CALCULATE • CREATE**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=850&lines=One+Recipe.+Endless+Possibilities.+%F0%9F%8D%B2;Scale+Your+Servings%2C+Not+Your+Effort.+%E2%9C%A8;Perfect+Portions.+Precise+Measurements.+%F0%9F%A5%84;Less+Calculating.+More+Cooking.+%F0%9F%91%A8%E2%80%8D%F0%9F%8D%B3" alt="Recipe Portion Scaler Typing Animation"/>
+</p>
 
-*Your Favourite Recipes, Perfectly Sized for Every Occasion.*
+<h2 align="center">✨ Change the Portions. Keep the Perfection.</h2>
+
+<p align="center">
+  A smart recipe scaling tool that automatically recalculates ingredient quantities
+  based on your desired servings, making every cooking experience simple,
+  accurate, and effortless.
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT-Recipe%20Portion%20Scaler-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-Active-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-Smart%20Cooking-EC4899?style=for-the-badge"/>
+</p>
 
 ---
+
+
+
+
 
 ## 🌷 About the Project
 
@@ -183,3 +204,4 @@ Frontend Developer | AI/ML Enthusiast
 ⭐ If you like this project, don't forget to star the repository.
 
 **Made with ❤️ and a passion for innovation.**
+
