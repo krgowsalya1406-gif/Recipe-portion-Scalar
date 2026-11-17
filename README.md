@@ -56,19 +56,26 @@ To transform everyday cooking into a smarter experience through automatic portio
 | 📋 Quick Copy | Copy ingredient lists |
 | 🛒 Shopping Assistant | Generate shopping lists |
 
-## 🎬 Experience the Application
 
-### 🎥 Project Demo
 
-[▶ Watch Project Demonstration](https://drive.google.com/file/d/1KVJhJGyCnmRxw6PKjPG1yh_Rd1vec8lg/view?usp=sharing)
 
-### 🌐 LIVE APPLICATION
+### 🎬 PROJECT DEMO
 
-[🚀 Launch Recipe Portion Scaler](https://recipe-portion-scaler.vercel.app/)
+<a href="https://drive.google.com/file/d/1KVJhJGyCnmRxw6PKjPG1yh_Rd1vec8lg/view?usp=sharing">
+  <img src="https://img.shields.io/badge/▶%20WATCH%20PROJECT%20DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Project Demo"/>
+</a>
+
+### 🌐 LIVE DEMO
+
+<a href="https://recipe-portion-scaler.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_EXPLORE_RECIPE_SCALER-F59E0B?style=for-the-badge" alt="Live Demo"/>
+</a>
 
 ### 💻 SOURCE CODE
 
-[GitHub Repository](https://github.com/krgowsalya1406-gif/Recipe-portion-scaler)
+<a href="YOUR_GITHUB_REPOSITORY_LINK">
+  <img src="https://img.shields.io/badge/VIEW_ON_GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+</a>
 
 ## 📸 A Visual Journey
 
@@ -76,13 +83,13 @@ To transform everyday cooking into a smarter experience through automatic portio
 
 Every delicious recipe begins with the right ingredients. Explore ingredient details and measurements.
 
-![Ingredient Gallery](image/ingedrient.png)
+![Ingredient](image/ingedrient.png)
 
 ### 02. 🍲 Recipe Explorer
 
 Discover recipes, customize serving sizes, and get automatically calculated ingredient quantities.
 
-![Recipe Explorer](image/recipe.png)
+![Recipe ](image/recipe.png)
 
 ## ✨ What Makes It Special?
 
