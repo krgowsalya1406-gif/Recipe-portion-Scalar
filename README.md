@@ -194,21 +194,25 @@ Recipe-portion-scaler/
 
 To make cooking more accessible, intelligent, and enjoyable by bringing smart technology into everyday kitchens.
 
-## 👩‍💻 Meet the Developer
 
-**K.R. Gowsalya**
+<div align="center">
 
-Computer Science & Engineering Student
+### Gowsalya K.R.
 
-Frontend Developer | AI/ML Enthusiast
+**Web Developer | AI/ML Enthusiast | Creative Problem Solver**
 
-*Turning everyday challenges into smart digital solutions.*
+Turning everyday ideas into smart, simple, and meaningful digital experiences. ✨
+
+Passionate about building user-friendly web applications and exploring how technology can make everyday life easier.
+
+<br/>
+
+<a href="https://github.com/krgowsalya1406-gif">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-### 🍳 COOK SMART. SCALE RIGHT. ENJOY EVERY BITE!
-
-⭐ If you like this project, don't forget to star the repository.
-
-**Made with ❤️ and a passion for innovation.**
 
