@@ -83,13 +83,13 @@ To transform everyday cooking into a smarter experience through automatic portio
 
 Every delicious recipe begins with the right ingredients. Explore ingredient details and measurements.
 
-![Ingredient](image/ingedrient.png)
+![Ingredient](ingedrient.png)
 
 ### 02. 🍲 Recipe Explorer
 
 Discover recipes, customize serving sizes, and get automatically calculated ingredient quantities.
 
-![Recipe ](image/recipe.png)
+![Recipe ](recipe.png)
 
 ## ✨ What Makes It Special?
 
