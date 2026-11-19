@@ -194,25 +194,11 @@ Recipe-portion-scaler/
 
 To make cooking more accessible, intelligent, and enjoyable by bringing smart technology into everyday kitchens.
 
+## 👩‍💻 Meet the Developer
 
 <div align="center">
 
 ### Gowsalya K.R.
 
-**Web Developer | AI/ML Enthusiast | Creative Problem Solver**
-
-Turning everyday ideas into smart, simple, and meaningful digital experiences. ✨
-
-Passionate about building user-friendly web applications and exploring how technology can make everyday life easier.
-
-<br/>
-
-<a href="https://github.com/krgowsalya1406-gif">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
 
 
